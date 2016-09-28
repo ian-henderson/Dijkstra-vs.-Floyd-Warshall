@@ -1,6 +1,6 @@
 # Dijkstra-vs.-Floyd-Warshall
 
-This was a project for my Algorithms 4110 course at the University of North Texas. Compile and run the program with the command `g++ *.cpp; ./a.out`.
+This was a project for my Algorithms 4110 course at the University of North Texas. Compile and run the program with the command `g++ *.cpp; ./a.out X`, where X is a number of at least 50.
 
 ## Rubric
 
